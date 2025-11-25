@@ -1,0 +1,76 @@
+:root{
+  --bg:#f6f7fb;
+  --card:#fff;
+  --accent:#2b6ef6;
+  --muted:#6b7280;
+  --success:#16a34a;
+  --danger:#ef4444;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family:Inter,system-ui,Segoe UI,Arial;
+  background:linear-gradient(180deg,var(--bg),#eef2ff);
+  color:#111827;
+  display:flex;
+  flex-direction:column;
+  min-height:100vh;
+}
+.topbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:1rem 1.25rem;
+  background:transparent;
+}
+.container{
+  flex:1;
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+  padding:1.5rem;
+  gap:1rem;
+}
+.card{
+  background:var(--card);
+  border-radius:12px;
+  box-shadow:0 6px 18px rgba(15,23,42,0.08);
+  padding:1.25rem;
+  max-width:720px;
+  width:100%;
+}
+.q-number{font-size:0.9rem;color:var(--muted)}
+.q-text{font-size:1.15rem;margin:0.6rem 0 1rem}
+.options{display:flex;flex-direction:column;gap:0.6rem;margin-bottom:0.8rem}
+.optionBtn{
+  border:1px solid rgba(15,23,42,0.06);
+  padding:0.7rem;
+  border-radius:8px;
+  text-align:left;
+  cursor:pointer;
+  font-size:1rem;
+  background:#fff;
+}
+.optionBtn:hover{transform:translateY(-1px);transition:all .12s}
+.optionBtn.disabled{opacity:0.75;cursor:default}
+.optionBtn.correct{border-color:var(--success);background:#ecfdf5}
+.optionBtn.wrong{border-color:var(--danger);background:#fff1f2}
+.controls{display:flex;gap:.6rem;align-items:center;margin-top:.6rem}
+.btn{
+  padding:.5rem .9rem;
+  border-radius:8px;
+  border:0;
+  cursor:pointer;
+  font-weight:600;
+  background:var(--accent);
+  color:#fff;
+}
+.btn.secondary{background:transparent;color:var(--accent);border:1px solid rgba(43,110,246,0.12)}
+.feedback{margin-top:1rem;padding:.8rem;border-radius:8px;background:#f9fafb;border:1px solid rgba(15,23,42,0.03)}
+.explanation{font-size:.95rem;color:var(--muted)}
+.footer{text-align:center;padding:.75rem;color:var(--muted)}
+@media(max-width:640px){
+  .container{padding:1rem}
+  .card{padding:1rem}
+}

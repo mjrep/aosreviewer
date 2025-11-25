@@ -1,0 +1,1217 @@
+[
+    {
+        "type": "singleSelect",
+        "question": "_________ is one in which a malicious hacker takes over computers via the internet and causes them to flood a target site with demands for data and other small tasks.",
+        "options": [
+            "Phishing",
+            "Denial of Service (DoS) attack",
+            "Rootkits",
+            "Browsing"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "Think about overwhelming a system with repeated requests.",
+        "explanation": "A Denial of Service (DoS) attack floods a target with requests, making it unusable."
+    },
+    {
+        "type": "singleSelect",
+        "question": "__________ are programs that reside on computers attached to the network.",
+        "options": [
+            "Sniffers",
+            "Phishing",
+            "Brute force attack",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "They monitor traffic on a network.",
+        "explanation": "Sniffers are programs that capture and analyze network traffic."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Phishing is best described as:",
+        "options": [
+            "Sending fake emails to steal information",
+            "Repeated trials to guess passwords",
+            "Rootkits",
+            "Browsing"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about fake emails.",
+        "explanation": "Phishing tricks users into giving up sensitive information via fake emails."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Brute force attack refers to:",
+        "options": [
+            "Repeated trials",
+            "Phishing",
+            "Spoofing",
+            "Sniffers"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s about guessing passwords repeatedly.",
+        "explanation": "Brute force attack uses repeated trials to guess valid credentials."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Rootkits are:",
+        "options": [
+            "Programs that hide malicious activity",
+            "Phishing emails",
+            "Sniffers",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "They conceal malware.",
+        "explanation": "Rootkits hide malicious processes from detection."
+    },
+    {
+        "type": "singleSelect",
+        "question": "__________ plays a key role in computer system security.",
+        "options": [
+            "Web Server",
+            "Operating System",
+            "Sniffers",
+            "Trap doors"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "It manages hardware and software resources.",
+        "explanation": "The Operating System enforces security policies and protects system resources."
+    },
+    {
+        "type": "singleSelect",
+        "question": "___________ must be on guard to arm their operating systems with all available defense against attack.",
+        "options": [
+            "System Administrators",
+            "End Users",
+            "Hackers",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "They manage and secure systems.",
+        "explanation": "System Administrators are responsible for securing operating systems."
+    },
+    {
+        "type": "singleSelect",
+        "question": "“Adaptation and evolution to reduce effectiveness of future attacks” is described as:",
+        "options": [
+            "Strategies for repelling attacks",
+            "Strategies for improving system survivability based on knowledge retrieved from attacks",
+            "Strategies for limiting damage",
+            "Strategies for detecting attacks"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "Think about learning from past attacks.",
+        "explanation": "Adaptation and evolution means improving survivability using lessons from past attacks."
+    },
+    {
+        "type": "singleSelect",
+        "question": "“E-mail” is a vulnerability of LAN connected (with internet).",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about communication channels.",
+        "explanation": "Email is a vulnerability in LAN connected with internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "“E-mail” is a vulnerability of which configuration?",
+        "options": [
+            "LAN connected (with internet)",
+            "LAN connected (without internet)",
+            "Single computer",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It requires internet.",
+        "explanation": "Email vulnerabilities exist in LAN connected with internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "“Recognition of attacks and damage” is described as:",
+        "options": [
+            "Strategies for repelling attacks",
+            "Strategies for detecting attacks",
+            "Strategies for limiting damage",
+            "Strategies for recovery"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "It’s about detection.",
+        "explanation": "Recognition of attacks means detecting them."
+    },
+    {
+        "type": "singleSelect",
+        "question": "“Recovery of essential and full services after attack” is described as:",
+        "options": [
+            "Strategies for limiting damage",
+            "Strategies for repelling attacks",
+            "Strategies for recovery",
+            "Strategies for detection"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about minimizing damage.",
+        "explanation": "Recovery after attack involves strategies for limiting damage."
+    },
+    {
+        "type": "singleSelect",
+        "question": "“Resistance to attacks” is the same as:",
+        "options": [
+            "Strategies for repelling attacks",
+            "Strategies for limiting damage",
+            "Strategies for recovery",
+            "Strategies for detection"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s about repelling.",
+        "explanation": "Resistance means repelling attacks."
+    },
+    {
+        "type": "singleSelect",
+        "question": "“Sniffers” is a vulnerability of a LAN connected (with internet).",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "Think carefully.",
+        "explanation": "Sniffers are not a vulnerability of LAN connected with internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "“Sniffers” is not a vulnerability of a LAN connected (with internet).",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s the opposite statement.",
+        "explanation": "Sniffers are not vulnerabilities of LAN connected with internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "“Web Server” is a vulnerability of which configuration?",
+        "options": [
+            "LAN connected (with internet)",
+            "LAN connected (without internet)",
+            "Single computer",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about internet services.",
+        "explanation": "Web servers are vulnerable in LAN connected with internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "A type of virus which is triggered by a certain event like keystroke is called:",
+        "options": [
+            "Time Bomb",
+            "Logic Bomb",
+            "Macro Virus",
+            "Multipartite Virus"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "Triggered by user actions.",
+        "explanation": "Logic Bombs activate when a specific event occurs."
+    },
+    {
+        "type": "singleSelect",
+        "question": "A type of virus which is triggered by a specific time is called:",
+        "options": [
+            "Time Bomb",
+            "Logic Bomb",
+            "Macro Virus",
+            "Multipartite Virus"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Triggered by time.",
+        "explanation": "Time Bombs activate at a specific time."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Antivirus software can remove all impurities from your computer.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "Think realistically.",
+        "explanation": "Antivirus cannot remove all impurities."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Antivirus softwares combat viruses.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "That’s their purpose.",
+        "explanation": "Antivirus combats viruses."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Any breach of security or modification of data that was not the result of a planned intrusion is called:",
+        "options": [
+            "Unintentional intrusions",
+            "Spoofing",
+            "Phishing",
+            "Trap doors"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think accidental.",
+        "explanation": "Unintentional intrusions are breaches not caused by planned attacks."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Blended threats are considered as intentional attacks.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "They combine multiple attack methods.",
+        "explanation": "Blended threats are intentional."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Boot sector virus infects the boot record, the system area of a floppy disk or a hard drive.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about the boot record.",
+        "explanation": "Boot sector viruses target the boot record of disks."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Computer 'Virus' is a vulnerability of Single Computer (without E-mail or internet).",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Even isolated systems can be infected.",
+        "explanation": "Viruses can infect single computers without internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "File infector virus infects files on your computer.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about executable files.",
+        "explanation": "File infector viruses attach themselves to files."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Hoax site is an example of spoofing.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It disguises itself as legitimate.",
+        "explanation": "Hoax sites are spoofing attempts."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Hoax Sites are used when unauthorized users want to disguise themselves as friendly sites.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about deception.",
+        "explanation": "Hoax sites disguise malicious intent."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Infects both the boot record and program files, making them especially difficult to repair.",
+        "options": [
+            "Multipartite virus",
+            "Macro Virus",
+            "Logic Bomb",
+            "Trap doors"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It attacks multiple areas.",
+        "explanation": "Multipartite viruses infect both boot records and files."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Infects data files (such as word processing documents, spreadsheets, etc.).",
+        "options": [
+            "Macro Virus",
+            "Multipartite Virus",
+            "Logic Bomb",
+            "Boot sector virus"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about Office documents.",
+        "explanation": "Macro viruses infect data files like Word or Excel."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Infects the boot record, the system area of a floppy disk or a hard drive.",
+        "options": [
+            "Boot sector virus",
+            "Macro Virus",
+            "Multipartite Virus",
+            "Logic Bomb"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It targets the boot sector.",
+        "explanation": "Boot sector viruses infect the boot record."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Spoofing is the act of disguising a communication from an unknown source as being from a known, trusted source.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about fake identities.",
+        "explanation": "Spoofing disguises malicious communication as trusted."
+    },
+    {
+        "type": "singleSelect",
+        "question": "It is when unauthorized users gain access to search through secondary storage directories or files for information they should not have the privilege to read.",
+        "options": [
+            "Browsing",
+            "Spoofing",
+            "Phishing",
+            "Trap doors"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about unauthorized searching.",
+        "explanation": "Browsing refers to unauthorized access to files."
+    },
+    {
+        "type": "singleSelect",
+        "question": "LAN connected (without internet) is vulnerable to 'sniffers'.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Even without internet, sniffers can monitor traffic.",
+        "explanation": "Sniffers can capture LAN traffic without internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Logic Bomb is a destructive program that can be triggered by a keystroke or connection with the Internet.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It activates on events.",
+        "explanation": "Logic Bombs trigger on specific events."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Malicious or not, a breach of security severely damages the system’s credibility.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about trust.",
+        "explanation": "Any breach damages credibility."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Ransomware is a malware that demands a fee or ransom.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about ransom demands.",
+        "explanation": "Ransomware demands payment to restore access."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Ransomware is similar to smishing except that the victims receive a voice mail telling them to call a phone number or access a website.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "This describes vishing.",
+        "explanation": "Ransomware is not the same as smishing or vishing."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Refers to the use of discarded materials such as disks, CDs, printout, etc., to enter the system legally.",
+        "options": [
+            "Trash Collection",
+            "Spoofing",
+            "Browsing",
+            "Trap doors"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about discarded items.",
+        "explanation": "Trash collection uses discarded materials to gain access."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Repeated trials is also known as Brute Force Attack.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s about guessing passwords.",
+        "explanation": "Repeated trials are brute force attacks."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Security breach can happen due to uneducated users and unauthorized access to system resources.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about human error.",
+        "explanation": "Uneducated users can cause breaches."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Security breach is a gap in system security that can be malicious or not.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It can be intentional or accidental.",
+        "explanation": "Breaches may be malicious or accidental."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Small programs written to alter the way a computer operates, without permission of the user are called:",
+        "options": [
+            "Virus",
+            "Worm",
+            "Macro",
+            "Trap doors"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about unauthorized changes.",
+        "explanation": "Viruses alter computer operations without permission."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Sniffers are programs that reside on computers attached to the network.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "They monitor traffic.",
+        "explanation": "Sniffers capture network traffic."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Spear-phishing is variation of phishing in which the phishier sends fake emails to a certain employee of an organization.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It targets specific individuals.",
+        "explanation": "Spear-phishing targets specific people."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Spoofing can be applied to emails, phone calls, and websites.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about multiple channels.",
+        "explanation": "Spoofing applies to emails, calls, and sites."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Spooping is the act of disguising a communication from an unknown source as being from a known, trusted source.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "Notice the misspelling.",
+        "explanation": "Spooping is incorrect; the correct term is spoofing."
+    },
+    {
+        "type": "singleSelect",
+        "question": "The 'Ease of protection' of a LAN connected (with Internet) is 'High'.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "LAN with internet is harder to protect.",
+        "explanation": "Ease of protection for LAN with internet is not high."
+    },
+    {
+        "type": "singleSelect",
+        "question": "The 'Ease of protection' of a LAN connected (with internet) is 'Medium'.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "It’s not medium either.",
+        "explanation": "Ease of protection for LAN with internet is low."
+    },
+    {
+        "type": "singleSelect",
+        "question": "The more complex and powerful the ________, the more likely it is to have vulnerabilities to attack.",
+        "options": [
+            "Operating System",
+            "Web Server",
+            "Sniffers",
+            "Trap doors"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about system software.",
+        "explanation": "Operating systems become more vulnerable as they grow complex."
+    },
+    {
+        "type": "singleSelect",
+        "question": "These refer to entering systems by guessing authentic passwords.",
+        "options": [
+            "Repeated trials",
+            "Spoofing",
+            "Phishing",
+            "Trap doors"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s brute force.",
+        "explanation": "Repeated trials are brute force attacks."
+    },
+    {
+        "type": "singleSelect",
+        "question": "These refers to an unspecified and undocumented entry point to the system.",
+        "options": [
+            "Trap doors",
+            "Spoofing",
+            "Phishing",
+            "Browsing"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about hidden entries.",
+        "explanation": "Trap doors are undocumented entry points."
+    },
+    {
+        "type": "singleSelect",
+        "question": "This infects the boot record of a disk, saving a legitimate copy of the master boot record in a different location on the volume.",
+        "options": [
+            "Master boot record virus",
+            "Macro Virus",
+            "Multipartite Virus",
+            "Logic Bomb"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It targets the boot record.",
+        "explanation": "Master boot record viruses infect the boot record and save a copy elsewhere."
+    },
+    {
+        "type": "singleSelect",
+        "question": "To be called a virus, one must be self-executing and __________.",
+        "options": [
+            "Self-replicating",
+            "Self-hiding",
+            "Self-destructive",
+            "Self-learning"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think replication.",
+        "explanation": "Viruses must be self-replicating."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Unauthorized user monitors or modifies a user’s transmission.",
+        "options": [
+            "Wire tapping",
+            "Spoofing",
+            "Phishing",
+            "Browsing"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about intercepting communication.",
+        "explanation": "Wire tapping monitors or modifies transmissions."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Virus is a vulnerability of which configuration?",
+        "options": [
+            "All of these",
+            "LAN connected with internet",
+            "Single Computer (without E-mail or internet)",
+            "Laptop with E-mail"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Viruses can affect all configurations.",
+        "explanation": "Viruses are vulnerabilities across all listed configurations."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Vishing is a type of phishing that involves the use of short messages service (SMS) texting.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "That’s smishing.",
+        "explanation": "Vishing uses voice calls, not SMS."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Vishing is similar to smishing except that the victims receive a voice mail telling them to call a phone number or access a website.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about voice calls.",
+        "explanation": "Vishing uses voice mail to trick victims."
+    },
+    {
+        "type": "singleSelect",
+        "question": "What is the 'ease of protection' of a LAN connected with internet?",
+        "options": [
+            "Low",
+            "Medium",
+            "High",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s the hardest to protect.",
+        "explanation": "LAN with internet has low ease of protection."
+    },
+    {
+        "type": "singleSelect",
+        "question": "What is the 'ease of protection' of a LAN connected without Internet?",
+        "options": [
+            "Low",
+            "Medium",
+            "High",
+            "None of these"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "It’s easier than with internet.",
+        "explanation": "LAN without internet has medium ease of protection."
+    },
+    {
+        "type": "singleSelect",
+        "question": "What is the 'ease of protection' of a single computer without e-mail or internet?",
+        "options": [
+            "Low",
+            "Medium",
+            "High",
+            "None of these"
+        ],
+        "answer": [
+            2
+        ],
+        "hint": "It’s the easiest to protect.",
+        "explanation": "Single computers without internet have high ease of protection."
+    },
+    {
+        "type": "singleSelect",
+        "question": "What is the 'Relative risk' of a single computer without e-mail or internet?",
+        "options": [
+            "Low",
+            "Medium",
+            "High",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s the least risky.",
+        "explanation": "Relative risk is low for isolated computers."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which among the given is a vulnerability of a LAN connected with internet?",
+        "options": [
+            "All of these",
+            "E-mail",
+            "Spoofing",
+            "Viruses"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It includes all listed.",
+        "explanation": "LAN with internet is vulnerable to all of these."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which among the given is a vulnerability of a LAN connected without internet?",
+        "options": [
+            "Sniffers",
+            "Viruses",
+            "Spoofing",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about monitoring traffic.",
+        "explanation": "Sniffers are vulnerabilities of LAN without internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which among the given is a vulnerability of a single computer without e-mail or internet?",
+        "options": [
+            "Compressed Passwords",
+            "Sniffers",
+            "Spoofing",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about weak passwords.",
+        "explanation": "Compressed passwords are vulnerabilities of single computers."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which among the given is not a vulnerability of a LAN connected with internet?",
+        "options": [
+            "Single Computer (without E-mail or internet)",
+            "LAN connected (without internet)",
+            "None of these",
+            "LAN connected (with internet)"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s a different configuration.",
+        "explanation": "Single computers are not vulnerabilities of LAN with internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which among the given is not a vulnerability of a LAN connected without internet?",
+        "options": [
+            "E-mail",
+            "Sniffers",
+            "Spoofing",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It requires internet.",
+        "explanation": "Email is not a vulnerability of LAN without internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which among the given is not a vulnerability of a single computer without e-mail or internet?",
+        "options": [
+            "Sniffers",
+            "Compressed Passwords",
+            "Spoofing",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Sniffers require a network.",
+        "explanation": "Sniffers are not vulnerabilities of isolated computers."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of the configurations is vulnerable to 'Sniffers'?",
+        "options": [
+            "LAN connected with or without Internet",
+            "Single Computer",
+            "Laptop with E-mail",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about network traffic monitoring.",
+        "explanation": "Sniffers can capture traffic in LANs with or without internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of the configurations is vulnerable to 'Spoofing'?",
+        "options": [
+            "LAN connected with or without Internet",
+            "Single Computer",
+            "Laptop with E-mail",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Spoofing disguises communication.",
+        "explanation": "Spoofing affects LANs with or without internet."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of the following example strategies belong to the key property 'Adaptation and evolution to reduce effectiveness of future attacks'?",
+        "options": [
+            "Intrusion recognition patterns",
+            "Authentication",
+            "Contingency planning",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about learning from past attacks.",
+        "explanation": "Intrusion recognition patterns help adapt to future attacks."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of the following example strategies does not belong to the key property 'Recovery of essential and full services after attack'?",
+        "options": [
+            "Authentication",
+            "Contingency planning",
+            "Backup restoration",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s about recovery, not access control.",
+        "explanation": "Authentication is not part of recovery strategies."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of the given is an example strategy of the key property 'Adaptation and evolution to reduce effectiveness of future attacks'?",
+        "options": [
+            "Intrusion recognition patterns",
+            "Authentication",
+            "Spoofing",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about evolving defenses.",
+        "explanation": "Intrusion recognition patterns help adapt to future attacks."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of the given is an example of unintentional attack?",
+        "options": [
+            "Hardware malfunction",
+            "Spoofing",
+            "Phishing",
+            "Trap doors"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about accidents.",
+        "explanation": "Hardware malfunction is an unintentional attack."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of the given is an example strategy of the key property 'Recognition of attack and damage'?",
+        "options": [
+            "Intrusion detection",
+            "Authentication",
+            "Spoofing",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s about detection.",
+        "explanation": "Intrusion detection recognizes attacks and damage."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of the given is an example strategy of the key property 'Recovery of essential and full services after attack'?",
+        "options": [
+            "Contingency planning",
+            "Authentication",
+            "Spoofing",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about recovery plans.",
+        "explanation": "Contingency planning helps recover services after attack."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of the given is an example strategy of the key property 'Resistance to attacks'?",
+        "options": [
+            "Authentication",
+            "Intrusion detection",
+            "Spoofing",
+            "None of these"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "It’s about repelling attacks.",
+        "explanation": "Authentication resists unauthorized access."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of the given is considered as system vulnerabilities?",
+        "options": [
+            "Email exchange",
+            "File downloads",
+            "Vulnerable firewalls",
+            "All of these"
+        ],
+        "answer": [
+            3
+        ],
+        "hint": "Think broadly.",
+        "explanation": "All listed are system vulnerabilities."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Which of these are the key properties of a survivable system?",
+        "options": [
+            "Resistance to attacks",
+            "Recovery of essential services after an attack",
+            "Recognition of attacks and resulting damage",
+            "All of the above"
+        ],
+        "answer": [
+            3
+        ],
+        "hint": "Think about survivability.",
+        "explanation": "All listed are key properties of survivable systems."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Worm is a program to use to enhance the speed of your computer.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            1
+        ],
+        "hint": "Worms are malicious.",
+        "explanation": "Worms are malware, not performance enhancers."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Worm is an example of Blended Threat.",
+        "options": [
+            "True",
+            "False",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about combined attacks.",
+        "explanation": "Worms can be part of blended threats."
+    },
+    {
+        "type": "singleSelect",
+        "question": "Written policies and procedures and _______ user training are essential elements of system management.",
+        "options": [
+            "Regular",
+            "Occasional",
+            "None of these",
+            "Not applicable"
+        ],
+        "answer": [
+            0
+        ],
+        "hint": "Think about consistency.",
+        "explanation": "Regular training is essential for system management."
+    }
+]

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Quiz Reviewer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>Quiz Reviewer</h1>
+    <div class="meta">
+      <span id="qCount">0</span> questions • Score: <span id="score">0</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="quiz">
+      <div id="questionCard" class="card">
+        <div id="questionNumber" class="q-number"></div>
+        <div id="questionText" class="q-text"></div>
+
+        <div id="options" class="options"></div>
+
+        <div class="controls">
+          <button id="hintBtn" class="btn secondary">Show hint</button>
+          <button id="nextBtn" class="btn" disabled>Next</button>
+        </div>
+
+        <div id="feedback" class="feedback" hidden>
+          <div id="explanation" class="explanation"></div>
+        </div>
+      </div>
+
+      <div id="endCard" class="card" hidden>
+        <h2>Finished!</h2>
+        <p>Your score: <span id="finalScore">0</span> / <span id="totalQ">0</span></p>
+        <button id="restartBtn" class="btn">Restart</button>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <small>Built with ♥ — GitHub Pages friendly</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
