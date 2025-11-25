@@ -20,7 +20,7 @@ const totalQEl = document.getElementById('totalQ');
 
 async function loadQuestions(){
   try{
-    const res = await fetch('/https://mjrep.github.io/aosreviewer/questions.json');
+    const res = await fetch('./questions.json');
     questions = await res.json();
     qCountEl.textContent = questions.length;
     renderQuestion();
@@ -137,6 +137,7 @@ function sanitize(str){
 
 // start
 loadQuestions();
+
 
 
 
